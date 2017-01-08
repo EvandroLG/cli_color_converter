@@ -1,8 +1,7 @@
 #!/usr/bin/env ruby
 
-require '../lib/str'
+require 'str'
 require 'color_converter'
-
 
 if ARGV.empty?
   puts 'You should pass a hexadecimal or rgb color'
