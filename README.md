@@ -1,7 +1,7 @@
 # cli_color_converter
 This is a command line program that convert from RGB to hexadecimal / hexadecimal to RGB
 
-## Install
+## Installation
 To install `cli_color_converter`, run:
 
 ```shell
