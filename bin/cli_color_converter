@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-require_relative 'str'
+require '../lib/str'
 require 'color_converter'
 
 
